@@ -1,3 +1,6 @@
+# Birthday paradox done in python
+# Program by Eren Sulutas
+
 import random
 
 subjects = 100
